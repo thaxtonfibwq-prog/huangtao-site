@@ -1,0 +1,14 @@
+黄桃调研成果网站　访问方式
+==================================
+
+一、局域网访问（手机扫码可用）
+   地址：http://10.30.249.93:8080/
+   前提：电脑与手机连同一个 WiFi，且本机已启动本地服务器
+
+二、本机访问
+   直接双击 index.html
+   或浏览器输入：file:///D:/DSH--feiyu/output/huangtao-site/index.html
+
+三、二维码
+   assets/img/qr-lan.png    局域网地址，手机可扫
+   assets/img/qr-local.png  本机文件路径，仅本机浏览器可识别
